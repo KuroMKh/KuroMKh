@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Khilfi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KuroMKh&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
+
+- 🔭 I’m currently working on **[Your Project Name]**  
+- 🌱 I’m currently learning **[Your Learning Topics]**  
+- 👯 I’m looking to collaborate on **[Collaboration Interest]**  
+- 🤝 I’m looking for help with **[What You Need Help With]**  
+- 💬 Ask me about **[Topics You Can Help With]**  
+- 📫 How to reach me **[Your Email]**  
+- 📄 Know about my experiences **[Your Resume Link]**  
+- ⚡ Fun fact **[Your Fun Fact]**  
 
 ---
 
@@ -26,9 +37,6 @@
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
@@ -37,18 +45,6 @@
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -61,9 +57,6 @@
   </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
   </a>
 </p>
 
@@ -84,27 +77,8 @@
 
 ---
 
-### 🎯 Fun Fact:
-- 💡 I love learning new technologies and working on innovative projects.
-- 🔭 I’m currently working on **[Your Project Name]**.
-- 🌱 I’m currently learning **[Your Learning Topics]**.
-- 📫 Reach me at **[Your Email]**.
-- ⚡ Fun fact: **[Your Fun Fact]**.
-
----
-
 ### 🔗 Other Projects:
-- 🚀 **[Project Name 1](#)** - Description
-- 💻 **[Project Name 2](#)** - Description
-- 📱 **[Project Name 3](#)** - Description
+- 🚀 **[Project Name 1](#)** - Description  
+- 💻 **[Project Name 2](#)** - Description  
+- 📱 **[Project Name 3](#)** - Description  
 
----
-
-### 💖 Support Me:
-If you like my work, consider **starring my repositories** or **buying me a coffee** ☕:
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/your-profile" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
