@@ -79,16 +79,11 @@
     </tr>
   </table>
 </div>
-
-<div align="center">
-  <img src="https://github.com/AhmadShamli/AhmadShamli/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
-
 ---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-khilfi-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="muhdkhilfi36@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ⭐️ From [KuroMKh](https://github.com/KuroMKh) - A developer in the making!
