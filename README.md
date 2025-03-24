@@ -16,18 +16,6 @@
 - 💡 Passionate about learning through hands-on projects
 - 😆 Fun Fact: I break things just to fix them again (it's called debugging, right?)
 
-## 🎯 Learning Goals (Until June 2025)
-I'm focusing on developing skills in these areas:
-- 🌐 **Web Development** - Building interactive websites with HTML, CSS, and JavaScript
-- 🖥️ **PHP** - Creating dynamic web applications
-- ⚡ **Vue.js** - Learning modern front-end development
-- 🅱️ **Bootstrap** - Creating responsive designs efficiently
-- ☁️ **AWS** - Understanding cloud computing basics
-- 🔥 **Firebase** - Exploring serverless architecture and real-time databases
-- 🐧 **Linux** - Getting comfortable with server environments
-- 🔧 **Web Servers** - Setting up and configuring servers
-- 🤖 **Arduino** - Learning physical computing and IoT basics
-
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
@@ -47,13 +35,12 @@ I'm focusing on developing skills in these areas:
 </p>
 
 ## 🚀 My Learning Projects
-- 🌐 Building a simple personal portfolio website with Bootstrap
-- 📝 Creating a basic PHP CRUD application
-- 🔄 Implementing a To-Do list app with Vue.js
-- 🔥 Building a real-time chat application with Firebase
-- 🐧 Setting up a Linux-based web server
-- ☁️ Deploying my first application to AWS
-- 🤖 Creating a simple Arduino LED project for IoT introduction
+
+-📝 Creating a basic PHP CRUD application using OOP
+-🔄 Implementing a To-Do list app with Vue.js and Firebase
+-🐧 Setting up a Linux-based web server
+-☁️ Deploying my first application to AWS
+-🤖 Developing my diploma project using PWA for mobile apps and Firebase
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuroMKh&theme=react-dark&hide_border=true" width="100%">
