@@ -1,18 +1,28 @@
 <h1 align="center">Hi 👋, I'm Khilfi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm just a regular dude who loves tech, code, and a good challenge. 🚀</h3>
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KuroMKh&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
 
-- 🔭 I’m currently working on **[Your Project Name]**  
-- 🌱 I’m currently learning **[Your Learning Topics]**  
-- 👯 I’m looking to collaborate on **[Collaboration Interest]**  
-- 🤝 I’m looking for help with **[What You Need Help With]**  
-- 💬 Ask me about **[Topics You Can Help With]**  
-- 📫 How to reach me **[Your Email]**  
-- 📄 Know about my experiences **[Your Resume Link]**  
-- ⚡ Fun fact **[Your Fun Fact]**  
+## 👨‍💻 About Me
+
+🎓 **Student** | Pursuing a Computer Science (Software Development) degree at UniSZA, Terengganu  
+🎓 **Diploma Grad** | Politeknik Muadzam Shah, Pahang (Same field, still coding!)  
+💡 Passionate about learning new things and expanding my knowledge  
+
+## 💻 What I'm Up To
+
+🔥 Currently diving deep into **Web & PWA Development (PHP + Vue.js)**  
+☁️ Exploring **Cloud Computing & Machine Learning** (because why not?)  
+🛠️ Always experimenting with new tech and building cool stuff  
+
+## 🚀 Fun Fact
+
+I break things just to fix them again (it’s called debugging, right? 😆)
 
 ---
+
 
 ### 🌐 Connect with Me:
 <p align="left">
@@ -74,11 +84,4 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-
----
-
-### 🔗 Other Projects:
-- 🚀 **[Project Name 1](#)** - Description  
-- 💻 **[Project Name 2](#)** - Description  
-- 📱 **[Project Name 3](#)** - Description  
 
