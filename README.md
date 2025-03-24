@@ -26,7 +26,7 @@ I break things just to fix them again (it’s called debugging, right? 😆)
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/muhammad-khilfi" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-khilfi-/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://twitter.com/your-profile" target="_blank">
@@ -68,14 +68,14 @@ I break things just to fix them again (it’s called debugging, right? 😆)
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KuroMKh&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuroMKh&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroMKh&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
