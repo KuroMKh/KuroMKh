@@ -1,7 +1,7 @@
 Hi there! 👋
 I'm just a regular dude who loves tech, coding, and a good challenge. 🚀
 
-👨‍💻 About Me
+👨‍💻 About Me <br>
 🎓 Computer Science (Software Development) Student @ UniSZA, Terengganu
 🎓 Diploma Graduate | Politeknik Muadzam Shah, Pahang (Same field, still coding!)
 💡 Passionate about learning, experimenting, and absorbing new knowledge
