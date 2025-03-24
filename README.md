@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" height="200" src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" alt="Github Contribution Snake Animation">
+</div>
+
 <h1 align="center">Hi there, I'm Khilfi 👋</h1>
 <h3 align="center">Computer Science student on a learning journey 🚀</h3>
 <br>
@@ -31,6 +35,11 @@ I'm focusing on developing skills in these areas:<br>
 - 🤖 **Arduino** - Learning physical computing and IoT basics<br>
 <br>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
+<br>
+
 ## 📚 Currently Learning
 
 <p align="center">
@@ -58,6 +67,11 @@ I'm focusing on developing skills in these areas:<br>
 - 🤖 Creating a simple Arduino LED project for IoT introduction<br>
 <br>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuroMKh&theme=react-dark&hide_border=true" width="100%">
+</div>
+<br>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -68,6 +82,11 @@ I'm focusing on developing skills in these areas:<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroMKh&layout=compact&theme=tokyonight" height="180em"/>
 </p>
+<br>
+
+<div align="center">
+  <img src="https://github.com/AhmadShamli/AhmadShamli/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
 <br>
 
 ## 💬 Let's Connect!
@@ -93,5 +112,9 @@ I'm looking to connect with fellow learners and mentors who can help me on my co
 <br>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation">
+</div>
 
 ⭐️ From [KuroMKh](https://github.com/KuroMKh) - A developer in the making!
