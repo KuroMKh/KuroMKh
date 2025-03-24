@@ -1,81 +1,59 @@
-<h1 align="center">Hi 👋, I'm Khilfi</h1>
-<h3 align="center">I'm just a regular dude who loves tech, code, and a good challenge. 🚀</h3>
+<h1 align="center">Hi there, I'm Khilfi 👋</h1>
+<h3 align="center">Tech enthusiast, developer, and problem solver 🚀</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KuroMKh&label=Profile%20views&color=0e75b6&style=flat" alt="KuroMKh" />
+  <a href="https://www.linkedin.com/in/muhammad-khilfi-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+</p>
+👨‍💻 About Me
+javascriptCopyconst khilfi = {
+  education: {
+    current: "Computer Science (Software Development) at UniSZA, Terengganu",
+    previous: "Diploma in Computer Science from Politeknik Muadzam Shah, Pahang"
+  },
+  currentFocus: ["Web Development", "PWA", "PHP", "Vue.js"],
+  exploring: ["Cloud Computing", "Machine Learning"],
+  passions: ["Learning new technologies", "Problem solving", "Building useful applications"],
+  funFact: "I break things just to fix them again (it's called debugging, right? 😆)"
+};
+🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KuroMKh&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuroMKh&theme=tokyonight" height="180em"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroMKh&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+🔥 Current Projects
 
----
+🌐 Building a responsive web application with Vue.js and PHP
+☁️ Experimenting with AWS cloud services
+📱 Developing Progressive Web Apps for better user experiences
+🤖 Exploring ML applications in web development
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KuroMKh&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
+📚 Learning Journey
 
-## 👨‍💻 About Me
+"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
 
-🎓 **Student** | Pursuing a Computer Science (Software Development) degree at UniSZA, Terengganu  
-🎓 **Diploma Grad** | Politeknik Muadzam Shah, Pahang (Same field, still coding!)  
-💡 Passionate about learning new things and expanding my knowledge  
-
-## 💻 What I'm Up To
-
-🔥 Currently diving deep into **Web & PWA Development (PHP + Vue.js)**  
-☁️ Exploring **Cloud Computing & Machine Learning** (because why not?)  
-🛠️ Always experimenting with new tech and building cool stuff  
-
-## 🚀 Fun Fact
-
-I break things just to fix them again (it’s called debugging, right? 😆)
-
----
-
-
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-khilfi-/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
+I believe in continuous learning and practical application. My repositories showcase my journey from basic projects to more complex solutions as I grow as a developer.
+📫 Let's Connect!
+I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you share similar interests or just want to chat about tech!
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-khilfi-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
----
-
-### 🛠 Tech Stack:
-<p align="left">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuroMKh&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuroMKh&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroMKh&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
+⭐️ From KuroMKh
