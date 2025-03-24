@@ -9,48 +9,76 @@
   <img src="https://komarev.com/ghpvc/?username=KuroMKh&label=Profile%20views&color=0e75b6&style=flat" alt="KuroMKh" />
 </p>
 
+<table>
+<tr>
+  <td width="50%">
+    
 ## 👨‍💻 About Me
 - 🎓 Computer Science (Software Development) student at UniSZA, Terengganu
 - 🎓 Diploma graduate from Politeknik Muadzam Shah, Pahang
 - 🌱 Beginner developer excited to grow my skills
 - 💡 Passionate about learning through hands-on projects
 - 😆 Fun Fact: I break things just to fix them again (it's called debugging, right?)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
+    
+  </td>
+  <td width="50%">
+    <div align="center">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%">
+    </div>
+  </td>
+</tr>
+</table>
 
 ## 📚 Currently Learning
-<p align="center">
+
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <br>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-</p>
-
-## 🚀 My Learning Projects
-
--📝 Creating a basic PHP CRUD application using OOP
--🔄 Implementing a To-Do list app with Vue.js and Firebase
--🐧 Setting up a Linux-based web server
--☁️ Deploying my first application to AWS
--🤖 Developing my diploma project using PWA for mobile apps and Firebase
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuroMKh&theme=react-dark&hide_border=true" width="100%">
 </div>
 
+<table>
+<tr>
+  <td width="60%">
+    
+## 🚀 My Learning Projects
+- 📝 Creating a basic PHP CRUD application using OOP
+- 🔄 Implementing a To-Do list app with Vue.js and Firebase
+- 🐧 Setting up a Linux-based web server
+- ☁️ Deploying my first application to AWS
+- 🤖 Developing my diploma project using PWA for mobile apps and Firebase
+    
+  </td>
+  <td width="40%">
+    <div align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuroMKh&theme=react-dark&hide_border=true" width="100%">
+    </div>
+  </td>
+</tr>
+</table>
+
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuroMKh&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroMKh&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=KuroMKh&show_icons=true&theme=tokyonight" width="100%" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroMKh&layout=compact&theme=tokyonight" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://github.com/AhmadShamli/AhmadShamli/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
