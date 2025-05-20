@@ -21,11 +21,6 @@
 - 😆 Fun Fact: I break things just to fix them again (it's called debugging, right?)
     
   </td>
-  <td width="50%">
-    <div align="center">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%">
-    </div>
-  </td>
 </tr>
 </table>
 
