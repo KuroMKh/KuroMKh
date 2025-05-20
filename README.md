@@ -65,21 +65,6 @@
 </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=KuroMKh&show_icons=true&theme=tokyonight" width="100%" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroMKh&layout=compact&theme=tokyonight" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 📲 My Contact
 
 <div align="center">
