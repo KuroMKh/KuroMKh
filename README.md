@@ -52,11 +52,6 @@
 - 🤖 Developing my diploma project using PWA for mobile apps and Firebase
     
   </td>
-  <td width="40%">
-    <div align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuroMKh&theme=react-dark&hide_border=true" width="100%">
-    </div>
-  </td>
 </tr>
 </table>
 
