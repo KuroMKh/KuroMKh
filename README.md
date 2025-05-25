@@ -34,12 +34,11 @@
 </p>
 
 ## 🚀 My Learning Projects
-
-- 📝 Creating a basic PHP CRUD application using OOP
-- 🔄 Implementing a To-Do list app with Vue.js and Firebase
-- 🐧 Setting up a Linux-based web server
-- ☁️ Deploying my first application to AWS
-- 🤖 Developing my diploma project using PWA for mobile apps and Firebase
+- 🐧 Currently setting up Termux on a tablet to deepen my Linux environment skills
+- ☁️ Exploring deployment of applications to AWS S3 for scalable cloud storage solutions
+- 📁 Developing a file uploader/downloader using PHP, Vue.js, and AWS S3
+- 🚀 Actively learning and applying Laravel and Vue.js frameworks
+- 🎂 Currently building a Cake Tracker Order Online system using modern JavaScript frameworks
 
 ## 📊 GitHub Stats
 
