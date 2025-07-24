@@ -33,13 +33,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
-## 🚀 My Learning Projects
-- 🐧 Currently setting up Termux on a tablet to deepen my Linux environment skills
-- ☁️ Exploring deployment of applications to AWS S3 for scalable cloud storage solutions
-- 📁 Developing a file uploader/downloader using PHP, Vue.js, and AWS S3
-- 🚀 Actively learning and applying Laravel and Vue.js frameworks
-- 🎂 Currently building a Cake Tracker Order Online system using modern JavaScript frameworks
-
 ## 📲 Connect With Me
 
 <p align="center">
