@@ -1,48 +1,43 @@
-![marwin1991_header](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
+![khilfi_header](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
+
 ### Hi there 👋
 
-My name is Peter Zmilczak and I am a Fullstack Software Engineer in the Java world 🌍. 
+My name is **Khilfi** and I’m a **Junior Fullstack Web Developer** passionate about building practical and user-focused solutions 🌐.
 
-I enjoy programming the most when I can solve someone's problem and a solution is positively surprising to a user. In constant pursuit of the perfect Java packaging. One of the greatest advantages of our industry is the ability to share knowledge and change the world by creating awesome products. 
+I enjoy coding the most when I can simplify manual processes and deliver features that make users say, *"Wow, that was easy!"* 🚀 I believe in learning by doing, solving real-world problems, and continuously improving my skills in modern web technologies.
 
-I am `DevOps/Automate-everything Approach Lover` 💻 and `Stock Market Enthusiast` 📈.
+I'm a **technologist who loves to learn and build things** — from web systems to automating simple tasks and experimenting with new stacks.
 
-Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
+Feel free to connect or reach out if you need help with PHP, Laravel, or want to collaborate!
 
-[![](https://komarev.com/ghpvc/?username=marwin1991&color=000000)](https://github.com/marwin1991?tab=repositories)
+[![](https://komarev.com/ghpvc/?username=KuroMKh&color=000000)](https://github.com/KuroMKh)
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:peter.zmilczak@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/piotr-zmilczak/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:muhdkhilfi36@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/muhammad-khilfi-/)
 
+---
 
 <div align="center">
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-6b11a900-adf5-11eb-8677-bcf8e4f8e298.png" alt="PHP" title="PHP" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Laravel" title="Laravel" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187070047-7bce3c11-8d99-4ab1-9681-eb1df26a612f.png" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187070044-927aeaf3-f078-4495-8253-79e5d2e6da93.png" alt="Tailwind CSS" title="Tailwind CSS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png" alt="WebAssembly" title="WebAssembly" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png" alt="Liquibase" title="Liquibase" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="MySQL" title="MySQL" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187070047-e1ab5fd2-2df2-4fa1-bd9a-fd72e8fbb0f4.png" alt="SQLite" title="SQLite" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187071944-f96d2e64-7b2a-4e1e-a89a-d2a75cd44b8b.png" alt="MongoDB" title="MongoDB" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187070103-3b70c2a2-3f04-44c0-b1b4-660c3aa444b3.png" alt="Python" title="Python" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187071939-4e4c808d-7d52-4f6c-9475-0d59c1f96b38.png" alt="AWS" title="AWS" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-2cc0b980-adf6-11eb-838c-348faeaf00dc.png" alt="VS Code" title="VS Code" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187088187-5d81515b-58a1-4c55-9a5f-5f15e94145b1.png" alt="elementary OS" title="elementary OS" /></code>
 </div>
 
+---
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KuroMKh&show_icons=true&theme=great-gatsby)](https://github.com/KuroMKh?tab=repositories)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=marwin1991&show_icons=true&theme=great-gatsby)](https://github.com/marwin1991?tab=repositories)
-
-
-- 🔭 I’m currently working on [**logchange**](https://github.com/logchange/logchange)
-- 🌱 I’m currently learning **React** and **DDD**.
+- 🔭 I’m currently working on: **Hotel Management System** using Laravel.
+- 🌱 I’m currently learning: **MEVN stack**, **MongoDB**, and **cloud deployment using AWS**.
+- 💡 Future goals: Automate development tasks, build SaaS tools, and explore AI in backend workflows.
