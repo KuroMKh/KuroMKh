@@ -9,9 +9,9 @@
 
 My name is **Khilfi**, and I’m a **Junior System Developer** passionate about building reliable, efficient, and user-focused solutions 🛠️.
 
-I love working on backend systems, mobile apps, IoT prototypes, automation scripts, and cloud-deployable tools — anything that simplifies processes, boosts productivity, or solves real-world inefficiencies. My mindset leans toward practicality, continuous learning, and building things that just work — whether it's through clean code, smart automation, or scalable deployments.
+💻 I love working on backend systems, 📱 mobile apps, 📡 IoT prototypes, ⚙️ automation scripts, and ☁️ cloud-deployable tools — anything that simplifies processes, boosts productivity, or solves real-world inefficiencies.
 
-I consider myself a **technologist** who’s always learning and building — whether it’s a web application, a backend service, or a cloud-connected system. I explore modern tools and stacks to deliver solid, working solutions with clean logic and maintainability in mind.
+🛠️ I consider myself a **technologist** who’s always learning and building — whether it’s a web application, a backend service, or a cloud-connected system. I explore modern tools and stacks to deliver solid, working solutions with clean logic and maintainability in mind.
 
 
 [![](https://komarev.com/ghpvc/?username=KuroMKh&color=000000)](https://github.com/KuroMKh)
