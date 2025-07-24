@@ -1,7 +1,7 @@
   <img 
     src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" 
     alt="Coder GIF" 
-    style="width: 600px; max-width: 100%; height: 450px;"
+    style="width: 450px; max-width: 100%; height: 450px;"
   />
 <br>
 
