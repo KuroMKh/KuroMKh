@@ -18,13 +18,13 @@ Feel free to connect or reach out if you need help with PHP, Laravel, or want to
 ---
 
 <div align="center">
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-6b11a900-adf5-11eb-8677-bcf8e4f8e298.png" alt="PHP" title="PHP" /></code>
+	<code><img height="50" src="[https://user-images.githubusercontent.com/25181517/117208135-6b11a900-adf5-11eb-8677-bcf8e4f8e298.png](https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.pn)" alt="PHP" title="PHP" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Laravel" title="Laravel" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187070047-7bce3c11-8d99-4ab1-9681-eb1df26a612f.png" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187070044-927aeaf3-f078-4495-8253-79e5d2e6da93.png" alt="Tailwind CSS" title="Tailwind CSS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="MySQL" title="MySQL" /></code>
+	<code><img height="50" src="[https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png](https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png)" alt="MySQL" title="MySQL" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187070047-e1ab5fd2-2df2-4fa1-bd9a-fd72e8fbb0f4.png" alt="SQLite" title="SQLite" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187071944-f96d2e64-7b2a-4e1e-a89a-d2a75cd44b8b.png" alt="MongoDB" title="MongoDB" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187070103-3b70c2a2-3f04-44c0-b1b4-660c3aa444b3.png" alt="Python" title="Python" /></code>
