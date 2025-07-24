@@ -18,7 +18,7 @@ Feel free to connect or reach out if you need help with PHP, Laravel, or want to
 ---
 
 <div align="center">
-	<code><img height="50" src="[https://user-images.githubusercontent.com/25181517/117208135-6b11a900-adf5-11eb-8677-bcf8e4f8e298.png](https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.pn)" alt="PHP" title="PHP" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-6b11a900-adf5-11eb-8677-bcf8e4f8e298.png" alt="PHP" title="PHP" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Laravel" title="Laravel" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187070047-7bce3c11-8d99-4ab1-9681-eb1df26a612f.png" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
